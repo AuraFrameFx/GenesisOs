@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\romtools\.cxx\Debug\33zw5211\armeabi-v7a'
+ninja: no work to do.

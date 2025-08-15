@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "dev.aurakai.auraframefx.app-mergeReleaseResources-3:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Wehtt\\Studio\\Genesis-Os\\Genesis\\gradle\\wrapper\\.gradle\\caches\\9.0.0\\transforms\\f951f02805f7e899dfe52fa73648d38b\\transformed\\material-1.11.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}

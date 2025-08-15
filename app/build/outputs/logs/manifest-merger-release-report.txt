@@ -1,0 +1,997 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:2:1-74:12
+INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:2:1-74:12
+MERGED from [com.highcapable.yukihookapi:api:1.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\958ad6c9e5e7981e2b8729cef51af19b\transformed\api-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\309042ea12155b5e7429ced11a75bef4\transformed\coil-compose-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\1da253e39a0e6d7bf5d6513fb842f43d\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5e697f4efefc237918c85aa6e318d9e1\transformed\coil-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\1431d014435218f63b809728e6fce539\transformed\coil-base-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\380f59c5918258a92bef04d018cacc38\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.highcapable.betterandroid:ui-extension:1.0.6] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5d78809c8ca207228c84cbda54699b80\transformed\ui-extension-1.0.6\AndroidManifest.xml:23:1-28:12
+MERGED from [com.highcapable.betterandroid:system-extension:1.0.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\71175bbe6091c8f3a2f960bfd279bf4c\transformed\system-extension-1.0.2\AndroidManifest.xml:23:1-28:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f951f02805f7e899dfe52fa73648d38b\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference-ktx:1.2.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\d76f88e4666177e9a3fa96a7829fab98\transformed\preference-ktx-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\910c5af9af72222168d837e8ec802676\transformed\preference-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6b3d2f32a2e9e990ccfec63f24ca67bc\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07541b5d71579bfa5d89b8588d8b79ea\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\64ea4f4e4b90e0ca3f1dd1651de58816\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\94cdd8c720e69cac8ea67f6f456466fe\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.57] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\15b2f3a2c26eb865470e71288189a074\transformed\hilt-android-2.57\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75b028758907b7ea923700b69791872f\transformed\navigation-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-android:2.9.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5bfa1924ae0da28977e4cfeaac6e396d\transformed\navigation-common-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose-android:2.9.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4863d7e844e8ec307e6bef6ca2cc5384\transformed\navigation-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fc74cade96f467eb06007d51da49bef3\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\dff200507552c992a3f1f618c62a822c\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\48902762ac03c117296c1bec912deac3\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7998ad81b5de0ee483b4e29a6d695f85\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\514100639d7a64c8ef7542fac7c32382\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\51b892a4ab8ec521a60c99d538c6d236\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5fb80dabb3e4c13472b4aa0f3d80e976\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\bf050a567393bf63d6e30bd7ed5150fa\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6c1e6e7df1425f3c2bc6f6a11c722900\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b8c51dc340b9a34a93d97eeb57afb028\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9d20e717521a95d4d221cbd833511377\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6f3eaaa8a8673a4dad5d5d31c0c52395\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\8094d9e1f19ce40df8949612bae6d2da\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:15:1-30:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c4d59f7940629278b5233d3c8c3b8b25\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\188833cc197c991587c65f853ff64560\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07d643da86d4c797e08ce39ab9dbac53\transformed\firebase-measurement-connector-20.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d9a2587107bec264f9631606ed632a5\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\cc058c268d615036d0b21e0c5504b14c\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ecc20dc647cc407bd687145ff310f3da\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\59aa4ca72edf7e8074f22749c803c9d5\transformed\room-ktx-2.7.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b4cbfdd86254ccc72862e3cb35477f64\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a4e00d4eb7b7149ad6e1ebf7e32bd997\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16823a17b6b707e6e747194a6fc0c2e3\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e3e7646d2bcbdf2332c225d718eea020\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acb22fafae4990b815f73325508e097a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4bdd13c35c5a199185fafa45a6cfb575\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\bfebd60bd3f2bf68fdbc4d0b3f65a595\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\dc464b0418ff7f927f2a079d7472f397\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\29c63c6a9cc7e231afc97f8ce9fe6b23\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f336036e70c504eaa11f951af03fa590\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a4dd5bb8873f1997d41cf90f3a27601c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\33546a22dc678aa34c44ad2b07ea35ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ce735bbe72010eabbb38a83602b98d1b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\62b470bd6ce5ecb812f4ed19239986d6\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b6e32adfc491915144be14b16d8996cc\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\58fab8da34e5e5b14c52d1348cf71374\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e4180ff07604e145e1dc3d9177f2980a\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\439ec825cd88a2adb8f49af693a6c670\transformed\lifecycle-livedata-2.9.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\39ec208f9322384ed4b010e6535736f8\transformed\lifecycle-livedata-core-2.9.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\8941503079c94f1eb36d147cb9c099b8\transformed\lifecycle-livedata-core-ktx-2.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2790cee972d3065e0b41a803723aa9fc\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6e4f04496675f63a9e2c36f927b876bc\transformed\lifecycle-viewmodel-2.9.2\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ed42fc076ef400346a4feaa5a2a3dda2\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a044c68fb6ea4b0917253a8c44472956\transformed\lifecycle-viewmodel-savedstate-2.9.2\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ef5cd5b4216dc93ed59c14cda8207404\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07d09deaecd61a2c9bc65b979380cf57\transformed\savedstate-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ce508f8269b28107e6a9c8f29b11b662\transformed\savedstate-ktx-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4ccccda48e622549617455ffaa4990a3\transformed\savedstate-1.3.1\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c9cb32efb785e95e34f289bcef6bd1c6\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\582f438d9579dc76bc177eb975d25a23\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0774d83a6c1927959f545ff741f39383\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\595787db885b0d5db05722b4af27c945\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fcb2d19e03826b1b15415537baaad137\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-android:1.1.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\8ae7d382886db608de97a063acb40cdc\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b7ecb6445d4bbe1b6481d194609c24d1\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9ac5c7ac030351e70ec164aa7aef31a9\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75e70cc728a747c140173fefcd8f3dc8\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\17375b25591d29456c896ea7121c0f5e\transformed\firebase-installations-interop-17.2.0\AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a43fad3ec4d1b2e54fc1fc59491f34f8\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2d4de2ff6de2af86b981796ca3bda1de\transformed\play-services-basement-18.5.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5be02f0bf055ec462237c5f794b98356\transformed\fragment-1.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c226b78fdce42e2536020c6e4b94f46b\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\92dcb915e0d0bcc50540de7027a9a5b3\transformed\lifecycle-viewmodel-ktx-2.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\39e2f9c1f5f1cec5a1447dd4f3fb1768\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c7b7dd00f92901011f2c217a86ecaac4\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9d7972eac618f3cda2dffb2515a3093b\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0d2dda3b4e7971b6bab6844e64b3aeba\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\96bf7c59ca31ad528257d7071903b062\transformed\activity-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\08997906f67726808290a02967319dec\transformed\activity-1.10.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.10.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b2f358d6747238647e3e794d3541ee0e\transformed\activity-compose-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75f4ce8ccbd82511c56197736a8fcd3f\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\1512caefeb4bd4e5ade908e7385e3211\transformed\core-ktx-1.16.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e94cdfe0d4b0b35dcfac07a5fc08b3cc\transformed\timber-5.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ef86e4f2c8a1a668996d521512726d43\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6619b9439bc201875e2a1f43acdf37c4\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\057aa1fd822c826524db229c60961033\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3a22125e84f3e417dc2323de1c85810\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c5657acbb63d54506e7b88ab6247b020\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2a2460ff5451eb7aee3b308ad23b120b\transformed\startup-runtime-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e492983647aebff83f65d896e76a11f4\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\218002cf68fead1fc688336133eadf2c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5b9e2271adb9b81e0062cb4b263e0f83\transformed\firebase-components-19.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d718ae0d4594dcb1036fe04e5362d3b\transformed\firebase-config-interop-16.0.1\AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:15:1-31:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:15:1-35:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\d885b5c3cdd9505a50b6e6d5a7e1a92f\transformed\firebase-encoders-json-18.0.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.datatransport:transport-api:3.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4e2b0b31e9ac240cedf1fbba1f5441cf\transformed\transport-api-3.2.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\3c6609937014b7e80f109b5f4605b7b1\transformed\viewbinding-8.5.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\61b8fb55a4716c220041b74d6946968c\transformed\sqlite-framework-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.5.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\eab93596a894344ded454b9be0dcd1ca\transformed\sqlite-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\88fe67a169ea1c7143baeea2ea348e1f\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9b06dc78db1e002d4e7f8b6273bb7c11\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e9e7f715fffa8428233a150efbe3cd81\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4a148f8ceae722bbbec1f45b7567d0ea\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\18b30b66d58e36bc1ae5a910a4f9fc57\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.lsposed.lsplant:lsplant:6.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\aa7238d5c8e5a2fbf57f9afa652f13b8\transformed\lsplant-6.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.57] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\3b1caabe4fa839aaf21c5300005213f2\transformed\dagger-lint-aar-2.57\AndroidManifest.xml:16:1-19:12
+MERGED from [org.lsposed.hiddenapibypass:hiddenapibypass:6.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5b31aa5ac8cc6285d2fc945c771c4574\transformed\hiddenapibypass-6.1\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:8:5-67
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:8:5-72:19
+INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:8:5-72:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f951f02805f7e899dfe52fa73648d38b\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f951f02805f7e899dfe52fa73648d38b\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6b3d2f32a2e9e990ccfec63f24ca67bc\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6b3d2f32a2e9e990ccfec63f24ca67bc\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:20:5-28:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:20:5-28:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c4d59f7940629278b5233d3c8c3b8b25\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c4d59f7940629278b5233d3c8c3b8b25\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\188833cc197c991587c65f853ff64560\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\188833cc197c991587c65f853ff64560\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07d643da86d4c797e08ce39ab9dbac53\transformed\firebase-measurement-connector-20.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07d643da86d4c797e08ce39ab9dbac53\transformed\firebase-measurement-connector-20.0.1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d9a2587107bec264f9631606ed632a5\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d9a2587107bec264f9631606ed632a5\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\cc058c268d615036d0b21e0c5504b14c\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\cc058c268d615036d0b21e0c5504b14c\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ecc20dc647cc407bd687145ff310f3da\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ecc20dc647cc407bd687145ff310f3da\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\33546a22dc678aa34c44ad2b07ea35ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\33546a22dc678aa34c44ad2b07ea35ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75e70cc728a747c140173fefcd8f3dc8\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75e70cc728a747c140173fefcd8f3dc8\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a43fad3ec4d1b2e54fc1fc59491f34f8\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a43fad3ec4d1b2e54fc1fc59491f34f8\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2d4de2ff6de2af86b981796ca3bda1de\transformed\play-services-basement-18.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2d4de2ff6de2af86b981796ca3bda1de\transformed\play-services-basement-18.5.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e94cdfe0d4b0b35dcfac07a5fc08b3cc\transformed\timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e94cdfe0d4b0b35dcfac07a5fc08b3cc\transformed\timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:10:5-20:19
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:10:5-20:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2a2460ff5451eb7aee3b308ad23b120b\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2a2460ff5451eb7aee3b308ad23b120b\transformed\startup-runtime-1.2.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\218002cf68fead1fc688336133eadf2c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\218002cf68fead1fc688336133eadf2c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:21:5-29:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:25:5-33:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:23:5-37:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:23:5-37:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:11:9-51
+	android:roundIcon
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:14:9-49
+	android:enableOnBackInvokedCallback
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:15:9-51
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:9:9-45
+meta-data#xposedmodule
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:17:9-19:36
+	android:value
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:19:13-33
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:18:13-40
+meta-data#xposeddescription
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:20:9-22:58
+	android:value
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:21:13-45
+meta-data#xposedminversion
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:23:9-25:34
+	android:value
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:25:13-31
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:24:13-44
+meta-data#xposedscope
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:26:9-28:54
+	android:resource
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:28:13-51
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:27:13-39
+meta-data#yukihookapi_module
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:31:9-33:36
+	android:value
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:33:13-33
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:32:13-46
+meta-data#yukihookapi_module_name
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:34:9-36:55
+	android:value
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:36:13-52
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:35:13-51
+meta-data#yukihookapi_module_version
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:37:9-39:37
+	android:value
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:39:13-34
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:38:13-54
+activity#dev.aurakai.auraframefx.MainActivity
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:41:9-48:20
+	android:exported
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:42:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:46:27-74
+service#dev.aurakai.auraframefx.VertexSyncService
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:50:9-52:40
+	android:exported
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:51:13-46
+service#dev.aurakai.auraframefx.security.IntegrityMonitorService
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:53:9-55:40
+	android:exported
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:54:13-61
+receiver#dev.aurakai.auraframefx.receivers.BootCompletedReceiver
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:57:9-64:20
+	android:enabled
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:59:13-35
+	android:exported
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:58:13-60
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:61:13-63:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:62:17-79
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:62:25-76
+receiver#dev.aurakai.auraframefx.security.IntegrityViolationReceiver
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:65:9-71:20
+	android:exported
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:67:13-36
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:66:13-64
+intent-filter#action:name:dev.aurakai.auraframefx.ACTION_INTEGRITY_VIOLATION
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:68:13-70:29
+action#dev.aurakai.auraframefx.ACTION_INTEGRITY_VIOLATION
+ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:69:17-93
+	android:name
+		ADDED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml:69:25-90
+uses-sdk
+INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml
+MERGED from [com.highcapable.yukihookapi:api:1.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\958ad6c9e5e7981e2b8729cef51af19b\transformed\api-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.highcapable.yukihookapi:api:1.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\958ad6c9e5e7981e2b8729cef51af19b\transformed\api-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\309042ea12155b5e7429ced11a75bef4\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\309042ea12155b5e7429ced11a75bef4\transformed\coil-compose-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\1da253e39a0e6d7bf5d6513fb842f43d\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\1da253e39a0e6d7bf5d6513fb842f43d\transformed\coil-compose-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5e697f4efefc237918c85aa6e318d9e1\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5e697f4efefc237918c85aa6e318d9e1\transformed\coil-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\1431d014435218f63b809728e6fce539\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.7.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\1431d014435218f63b809728e6fce539\transformed\coil-base-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\380f59c5918258a92bef04d018cacc38\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\380f59c5918258a92bef04d018cacc38\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [com.highcapable.betterandroid:ui-extension:1.0.6] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5d78809c8ca207228c84cbda54699b80\transformed\ui-extension-1.0.6\AndroidManifest.xml:26:5-44
+MERGED from [com.highcapable.betterandroid:ui-extension:1.0.6] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5d78809c8ca207228c84cbda54699b80\transformed\ui-extension-1.0.6\AndroidManifest.xml:26:5-44
+MERGED from [com.highcapable.betterandroid:system-extension:1.0.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\71175bbe6091c8f3a2f960bfd279bf4c\transformed\system-extension-1.0.2\AndroidManifest.xml:26:5-44
+MERGED from [com.highcapable.betterandroid:system-extension:1.0.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\71175bbe6091c8f3a2f960bfd279bf4c\transformed\system-extension-1.0.2\AndroidManifest.xml:26:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f951f02805f7e899dfe52fa73648d38b\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f951f02805f7e899dfe52fa73648d38b\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference-ktx:1.2.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\d76f88e4666177e9a3fa96a7829fab98\transformed\preference-ktx-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\d76f88e4666177e9a3fa96a7829fab98\transformed\preference-ktx-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\910c5af9af72222168d837e8ec802676\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\910c5af9af72222168d837e8ec802676\transformed\preference-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6b3d2f32a2e9e990ccfec63f24ca67bc\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6b3d2f32a2e9e990ccfec63f24ca67bc\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07541b5d71579bfa5d89b8588d8b79ea\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07541b5d71579bfa5d89b8588d8b79ea\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\64ea4f4e4b90e0ca3f1dd1651de58816\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\64ea4f4e4b90e0ca3f1dd1651de58816\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\94cdd8c720e69cac8ea67f6f456466fe\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\94cdd8c720e69cac8ea67f6f456466fe\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.57] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\15b2f3a2c26eb865470e71288189a074\transformed\hilt-android-2.57\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.57] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\15b2f3a2c26eb865470e71288189a074\transformed\hilt-android-2.57\AndroidManifest.xml:18:3-42
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75b028758907b7ea923700b69791872f\transformed\navigation-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75b028758907b7ea923700b69791872f\transformed\navigation-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5bfa1924ae0da28977e4cfeaac6e396d\transformed\navigation-common-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5bfa1924ae0da28977e4cfeaac6e396d\transformed\navigation-common-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4863d7e844e8ec307e6bef6ca2cc5384\transformed\navigation-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4863d7e844e8ec307e6bef6ca2cc5384\transformed\navigation-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fc74cade96f467eb06007d51da49bef3\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fc74cade96f467eb06007d51da49bef3\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\dff200507552c992a3f1f618c62a822c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\dff200507552c992a3f1f618c62a822c\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\48902762ac03c117296c1bec912deac3\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\48902762ac03c117296c1bec912deac3\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7998ad81b5de0ee483b4e29a6d695f85\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7998ad81b5de0ee483b4e29a6d695f85\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\514100639d7a64c8ef7542fac7c32382\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\514100639d7a64c8ef7542fac7c32382\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\51b892a4ab8ec521a60c99d538c6d236\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\51b892a4ab8ec521a60c99d538c6d236\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5fb80dabb3e4c13472b4aa0f3d80e976\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5fb80dabb3e4c13472b4aa0f3d80e976\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\bf050a567393bf63d6e30bd7ed5150fa\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\bf050a567393bf63d6e30bd7ed5150fa\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6c1e6e7df1425f3c2bc6f6a11c722900\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6c1e6e7df1425f3c2bc6f6a11c722900\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b8c51dc340b9a34a93d97eeb57afb028\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b8c51dc340b9a34a93d97eeb57afb028\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9d20e717521a95d4d221cbd833511377\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9d20e717521a95d4d221cbd833511377\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6f3eaaa8a8673a4dad5d5d31c0c52395\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6f3eaaa8a8673a4dad5d5d31c0c52395\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\8094d9e1f19ce40df8949612bae6d2da\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\8094d9e1f19ce40df8949612bae6d2da\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c4d59f7940629278b5233d3c8c3b8b25\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c4d59f7940629278b5233d3c8c3b8b25\transformed\firebase-analytics-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\188833cc197c991587c65f853ff64560\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\188833cc197c991587c65f853ff64560\transformed\play-services-measurement-sdk-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07d643da86d4c797e08ce39ab9dbac53\transformed\firebase-measurement-connector-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:20.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07d643da86d4c797e08ce39ab9dbac53\transformed\firebase-measurement-connector-20.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d9a2587107bec264f9631606ed632a5\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d9a2587107bec264f9631606ed632a5\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\cc058c268d615036d0b21e0c5504b14c\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\cc058c268d615036d0b21e0c5504b14c\transformed\play-services-measurement-base-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ecc20dc647cc407bd687145ff310f3da\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ecc20dc647cc407bd687145ff310f3da\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\59aa4ca72edf7e8074f22749c803c9d5\transformed\room-ktx-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\59aa4ca72edf7e8074f22749c803c9d5\transformed\room-ktx-2.7.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b4cbfdd86254ccc72862e3cb35477f64\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b4cbfdd86254ccc72862e3cb35477f64\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a4e00d4eb7b7149ad6e1ebf7e32bd997\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a4e00d4eb7b7149ad6e1ebf7e32bd997\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16823a17b6b707e6e747194a6fc0c2e3\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16823a17b6b707e6e747194a6fc0c2e3\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e3e7646d2bcbdf2332c225d718eea020\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e3e7646d2bcbdf2332c225d718eea020\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acb22fafae4990b815f73325508e097a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acb22fafae4990b815f73325508e097a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4bdd13c35c5a199185fafa45a6cfb575\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4bdd13c35c5a199185fafa45a6cfb575\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\bfebd60bd3f2bf68fdbc4d0b3f65a595\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\bfebd60bd3f2bf68fdbc4d0b3f65a595\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\dc464b0418ff7f927f2a079d7472f397\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\dc464b0418ff7f927f2a079d7472f397\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\29c63c6a9cc7e231afc97f8ce9fe6b23\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\29c63c6a9cc7e231afc97f8ce9fe6b23\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f336036e70c504eaa11f951af03fa590\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f336036e70c504eaa11f951af03fa590\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a4dd5bb8873f1997d41cf90f3a27601c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a4dd5bb8873f1997d41cf90f3a27601c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\33546a22dc678aa34c44ad2b07ea35ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\33546a22dc678aa34c44ad2b07ea35ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ce735bbe72010eabbb38a83602b98d1b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ce735bbe72010eabbb38a83602b98d1b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\62b470bd6ce5ecb812f4ed19239986d6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\62b470bd6ce5ecb812f4ed19239986d6\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b6e32adfc491915144be14b16d8996cc\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b6e32adfc491915144be14b16d8996cc\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\58fab8da34e5e5b14c52d1348cf71374\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\58fab8da34e5e5b14c52d1348cf71374\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e4180ff07604e145e1dc3d9177f2980a\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e4180ff07604e145e1dc3d9177f2980a\transformed\emoji2-views-helper-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\439ec825cd88a2adb8f49af693a6c670\transformed\lifecycle-livedata-2.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\439ec825cd88a2adb8f49af693a6c670\transformed\lifecycle-livedata-2.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\39ec208f9322384ed4b010e6535736f8\transformed\lifecycle-livedata-core-2.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\39ec208f9322384ed4b010e6535736f8\transformed\lifecycle-livedata-core-2.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\8941503079c94f1eb36d147cb9c099b8\transformed\lifecycle-livedata-core-ktx-2.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\8941503079c94f1eb36d147cb9c099b8\transformed\lifecycle-livedata-core-ktx-2.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2790cee972d3065e0b41a803723aa9fc\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2790cee972d3065e0b41a803723aa9fc\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6e4f04496675f63a9e2c36f927b876bc\transformed\lifecycle-viewmodel-2.9.2\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6e4f04496675f63a9e2c36f927b876bc\transformed\lifecycle-viewmodel-2.9.2\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ed42fc076ef400346a4feaa5a2a3dda2\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ed42fc076ef400346a4feaa5a2a3dda2\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a044c68fb6ea4b0917253a8c44472956\transformed\lifecycle-viewmodel-savedstate-2.9.2\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a044c68fb6ea4b0917253a8c44472956\transformed\lifecycle-viewmodel-savedstate-2.9.2\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ef5cd5b4216dc93ed59c14cda8207404\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ef5cd5b4216dc93ed59c14cda8207404\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07d09deaecd61a2c9bc65b979380cf57\transformed\savedstate-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\07d09deaecd61a2c9bc65b979380cf57\transformed\savedstate-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ce508f8269b28107e6a9c8f29b11b662\transformed\savedstate-ktx-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ce508f8269b28107e6a9c8f29b11b662\transformed\savedstate-ktx-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4ccccda48e622549617455ffaa4990a3\transformed\savedstate-1.3.1\AndroidManifest.xml:4:5-43
+MERGED from [androidx.savedstate:savedstate:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4ccccda48e622549617455ffaa4990a3\transformed\savedstate-1.3.1\AndroidManifest.xml:4:5-43
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c9cb32efb785e95e34f289bcef6bd1c6\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c9cb32efb785e95e34f289bcef6bd1c6\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\582f438d9579dc76bc177eb975d25a23\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\582f438d9579dc76bc177eb975d25a23\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0774d83a6c1927959f545ff741f39383\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0774d83a6c1927959f545ff741f39383\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\595787db885b0d5db05722b4af27c945\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\595787db885b0d5db05722b4af27c945\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fcb2d19e03826b1b15415537baaad137\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-core-android:1.1.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fcb2d19e03826b1b15415537baaad137\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\8ae7d382886db608de97a063acb40cdc\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-android:1.1.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\8ae7d382886db608de97a063acb40cdc\transformed\datastore-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b7ecb6445d4bbe1b6481d194609c24d1\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.datastore:datastore-preferences-android:1.1.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b7ecb6445d4bbe1b6481d194609c24d1\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9ac5c7ac030351e70ec164aa7aef31a9\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9ac5c7ac030351e70ec164aa7aef31a9\transformed\ads-adservices-java-1.1.0-beta11\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75e70cc728a747c140173fefcd8f3dc8\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75e70cc728a747c140173fefcd8f3dc8\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\17375b25591d29456c896ea7121c0f5e\transformed\firebase-installations-interop-17.2.0\AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\17375b25591d29456c896ea7121c0f5e\transformed\firebase-installations-interop-17.2.0\AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a43fad3ec4d1b2e54fc1fc59491f34f8\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a43fad3ec4d1b2e54fc1fc59491f34f8\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2d4de2ff6de2af86b981796ca3bda1de\transformed\play-services-basement-18.5.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2d4de2ff6de2af86b981796ca3bda1de\transformed\play-services-basement-18.5.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5be02f0bf055ec462237c5f794b98356\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5be02f0bf055ec462237c5f794b98356\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c226b78fdce42e2536020c6e4b94f46b\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c226b78fdce42e2536020c6e4b94f46b\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\92dcb915e0d0bcc50540de7027a9a5b3\transformed\lifecycle-viewmodel-ktx-2.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\92dcb915e0d0bcc50540de7027a9a5b3\transformed\lifecycle-viewmodel-ktx-2.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\39e2f9c1f5f1cec5a1447dd4f3fb1768\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\39e2f9c1f5f1cec5a1447dd4f3fb1768\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c7b7dd00f92901011f2c217a86ecaac4\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c7b7dd00f92901011f2c217a86ecaac4\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9d7972eac618f3cda2dffb2515a3093b\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.8] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9d7972eac618f3cda2dffb2515a3093b\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0d2dda3b4e7971b6bab6844e64b3aeba\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.8.3] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0d2dda3b4e7971b6bab6844e64b3aeba\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\96bf7c59ca31ad528257d7071903b062\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\96bf7c59ca31ad528257d7071903b062\transformed\activity-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\08997906f67726808290a02967319dec\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\08997906f67726808290a02967319dec\transformed\activity-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b2f358d6747238647e3e794d3541ee0e\transformed\activity-compose-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.10.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\b2f358d6747238647e3e794d3541ee0e\transformed\activity-compose-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75f4ce8ccbd82511c56197736a8fcd3f\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75f4ce8ccbd82511c56197736a8fcd3f\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\1512caefeb4bd4e5ade908e7385e3211\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\1512caefeb4bd4e5ade908e7385e3211\transformed\core-ktx-1.16.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e94cdfe0d4b0b35dcfac07a5fc08b3cc\transformed\timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e94cdfe0d4b0b35dcfac07a5fc08b3cc\transformed\timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ef86e4f2c8a1a668996d521512726d43\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ef86e4f2c8a1a668996d521512726d43\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6619b9439bc201875e2a1f43acdf37c4\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6619b9439bc201875e2a1f43acdf37c4\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:6:5-44
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:6:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\057aa1fd822c826524db229c60961033\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\057aa1fd822c826524db229c60961033\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3a22125e84f3e417dc2323de1c85810\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3a22125e84f3e417dc2323de1c85810\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c5657acbb63d54506e7b88ab6247b020\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c5657acbb63d54506e7b88ab6247b020\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2a2460ff5451eb7aee3b308ad23b120b\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2a2460ff5451eb7aee3b308ad23b120b\transformed\startup-runtime-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e492983647aebff83f65d896e76a11f4\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e492983647aebff83f65d896e76a11f4\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\218002cf68fead1fc688336133eadf2c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\218002cf68fead1fc688336133eadf2c\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5b9e2271adb9b81e0062cb4b263e0f83\transformed\firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5b9e2271adb9b81e0062cb4b263e0f83\transformed\firebase-components-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d718ae0d4594dcb1036fe04e5362d3b\transformed\firebase-config-interop-16.0.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-config-interop:16.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d718ae0d4594dcb1036fe04e5362d3b\transformed\firebase-config-interop-16.0.1\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\d885b5c3cdd9505a50b6e6d5a7e1a92f\transformed\firebase-encoders-json-18.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\d885b5c3cdd9505a50b6e6d5a7e1a92f\transformed\firebase-encoders-json-18.0.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4e2b0b31e9ac240cedf1fbba1f5441cf\transformed\transport-api-3.2.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4e2b0b31e9ac240cedf1fbba1f5441cf\transformed\transport-api-3.2.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\3c6609937014b7e80f109b5f4605b7b1\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\3c6609937014b7e80f109b5f4605b7b1\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\61b8fb55a4716c220041b74d6946968c\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.5.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\61b8fb55a4716c220041b74d6946968c\transformed\sqlite-framework-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\eab93596a894344ded454b9be0dcd1ca\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.5.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\eab93596a894344ded454b9be0dcd1ca\transformed\sqlite-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\88fe67a169ea1c7143baeea2ea348e1f\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\88fe67a169ea1c7143baeea2ea348e1f\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9b06dc78db1e002d4e7f8b6273bb7c11\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\9b06dc78db1e002d4e7f8b6273bb7c11\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e9e7f715fffa8428233a150efbe3cd81\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e9e7f715fffa8428233a150efbe3cd81\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4a148f8ceae722bbbec1f45b7567d0ea\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4a148f8ceae722bbbec1f45b7567d0ea\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\18b30b66d58e36bc1ae5a910a4f9fc57\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\18b30b66d58e36bc1ae5a910a4f9fc57\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.lsposed.lsplant:lsplant:6.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\aa7238d5c8e5a2fbf57f9afa652f13b8\transformed\lsplant-6.4\AndroidManifest.xml:5:5-44
+MERGED from [org.lsposed.lsplant:lsplant:6.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\aa7238d5c8e5a2fbf57f9afa652f13b8\transformed\lsplant-6.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.57] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\3b1caabe4fa839aaf21c5300005213f2\transformed\dagger-lint-aar-2.57\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.57] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\3b1caabe4fa839aaf21c5300005213f2\transformed\dagger-lint-aar-2.57\AndroidManifest.xml:18:3-42
+MERGED from [org.lsposed.hiddenapibypass:hiddenapibypass:6.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5b31aa5ac8cc6285d2fc945c771c4574\transformed\hiddenapibypass-6.1\AndroidManifest.xml:5:5-73
+MERGED from [org.lsposed.hiddenapibypass:hiddenapibypass:6.1] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5b31aa5ac8cc6285d2fc945c771c4574\transformed\hiddenapibypass-6.1\AndroidManifest.xml:5:5-73
+	android:targetSdkVersion
+		INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Wehtt\OneDrive\Documents\GitHub\GENESIS\app\src\main\AndroidManifest.xml
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:21:9-27:19
+MERGED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:21:9-27:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:22:9-28:19
+MERGED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:22:9-28:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:10:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:9:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsLegacyRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\f026df2a9d813f6e26a5f2db4866d9a9\transformed\firebase-analytics-ktx-22.5.0\AndroidManifest.xml:12:17-129
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.ktx.FirebaseCrashlyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:24:13-26:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:26:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics-ktx:19.4.4] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\acad2e96d90696d8c0837b75706b9dde\transformed\firebase-crashlytics-ktx-19.4.4\AndroidManifest.xml:25:17-130
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\38d2a30b9a3b53fab1f5a45e307fa1b5\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.FirebaseCrashlyticsKtxRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:16:17-126
+meta-data#com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar
+ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-crashlytics:20.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4499ff5871a19e1d1e78054f1a38f138\transformed\firebase-crashlytics-20.0.0\AndroidManifest.xml:19:17-115
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d9a2587107bec264f9631606ed632a5\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\6d9a2587107bec264f9631606ed632a5\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7bdbd0a699fa2942356352e38d92791b\transformed\play-services-measurement-sdk-api-23.0.0\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:27:22-79
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\7159b13c39a60a5d21da842013766093\transformed\play-services-measurement-api-23.0.0\AndroidManifest.xml:34:17-139
+meta-data#com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar
+ADDED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-sessions:3.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\16e36b7ee50c161d241d75b9a7786027\transformed\firebase-sessions-3.0.0\AndroidManifest.xml:26:17-117
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c6649791a9cf156e3a4c0b4fb54cfb83\transformed\firebase-installations-19.0.0\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:22.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c30de5df49cadb629c35cd59cee8d26d\transformed\firebase-common-22.0.0\AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\30cf3c2961c6fc5e3f9c39fd046925cf\transformed\play-services-measurement-impl-23.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:23.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a791abb9dac63746e4daeda8cd662a27\transformed\play-services-measurement-23.0.0\AndroidManifest.xml:40:13-87
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.7.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\ac93339051aa21f64223c6baaeda691e\transformed\room-runtime-release\AndroidManifest.xml:25:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\33546a22dc678aa34c44ad2b07ea35ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\33546a22dc678aa34c44ad2b07ea35ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\33546a22dc678aa34c44ad2b07ea35ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\33546a22dc678aa34c44ad2b07ea35ee\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\fe5eca7d6be661b12e4b43ffc4d557ac\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:24:9-32:20
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:11:9-19:20
+MERGED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:11:9-19:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2a2460ff5451eb7aee3b308ad23b120b\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+MERGED from [androidx.startup:startup-runtime:1.2.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2a2460ff5451eb7aee3b308ad23b120b\transformed\startup-runtime-1.2.0\AndroidManifest.xml:24:9-28:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\e2b4f6eaf12e4e37110eabecbfb05563\transformed\emoji2-1.4.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+permission#dev.aurakai.auraframefx.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+uses-permission#dev.aurakai.auraframefx.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.16.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\4f551ec3f18c09538c792b34aaf39d4e\transformed\core-1.16.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.2] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a3cab8d108db95840e7f0afa148cbffe\transformed\lifecycle-process-2.9.2\AndroidManifest.xml:30:17-78
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75e70cc728a747c140173fefcd8f3dc8\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75e70cc728a747c140173fefcd8f3dc8\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.1.0-beta11] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\75e70cc728a747c140173fefcd8f3dc8\transformed\ads-adservices-1.1.0-beta11\AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2d4de2ff6de2af86b981796ca3bda1de\transformed\play-services-basement-18.5.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2d4de2ff6de2af86b981796ca3bda1de\transformed\play-services-basement-18.5.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.5.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\2d4de2ff6de2af86b981796ca3bda1de\transformed\play-services-basement-18.5.0\AndroidManifest.xml:22:13-58
+meta-data#okhttp3.internal.platform.PlatformInitializer
+ADDED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:16:13-18:52
+	android:value
+		ADDED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:18:17-49
+	android:name
+		ADDED from [com.squareup.okhttp3:okhttp-android:5.1.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\78b5f573452b1bf62e8e93feef6f4eef\transformed\okhttp-release\AndroidManifest.xml:17:17-77
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\0c45876660be456d9f56e66a21ce9faf\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:19.0.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\5c82b826b749cd6c4a57d4fb9b3df89f\transformed\firebase-datatransport-19.0.0\AndroidManifest.xml:26:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:26:9-32:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:34:9-36:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:27:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:29:13-31:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:31:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\c3bd6753b2a3b6f9ab355fc3780ad868\transformed\transport-backend-cct-3.3.0\AndroidManifest.xml:30:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:24:9-28:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:26:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:25:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:30:9-32:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.3.0] C:\Users\Wehtt\Studio\Genesis-Os\Genesis\gradle\wrapper\.gradle\caches\9.0.0\transforms\a8879d8bd70e3c4a1ffa833761b12b9a\transformed\transport-runtime-3.3.0\AndroidManifest.xml:31:13-132

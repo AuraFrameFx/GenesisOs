@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "dev.aurakai.auraframefx.oracledriveintegration.oracle-drive-integration-release-4:/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "dev.aurakai.auraframefx.oracledriveintegration.oracle-drive-integration-material-1.12.0-16:/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "dev.aurakai.auraframefx.oracledriveintegration.oracle-drive-integration-release-4:/animator-v21/m3_appbar_state_list_animator.xml",
+        "source": "dev.aurakai.auraframefx.oracledriveintegration.oracle-drive-integration-material-1.12.0-16:/animator-v21/m3_appbar_state_list_animator.xml"
+    }
+]

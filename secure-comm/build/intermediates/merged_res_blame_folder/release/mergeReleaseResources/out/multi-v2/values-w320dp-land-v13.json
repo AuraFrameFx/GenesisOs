@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "dev.aurakai.auraframefx.securecomm.secure-comm-release-4:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Wehtt\\Studio\\Genesis-Os\\Genesis\\gradle\\wrapper\\.gradle\\caches\\9.0.0\\transforms\\1fc70e01d99661544b8346168c4c6e40\\transformed\\material-1.12.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "dev.aurakai.auraframefx.securecomm.secure-comm-mergeReleaseResources-2:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Wehtt\\Studio\\Genesis-Os\\Genesis\\gradle\\wrapper\\.gradle\\caches\\9.0.0\\transforms\\1fc70e01d99661544b8346168c4c6e40\\transformed\\material-1.12.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,61",
+                        "endOffsets": "105,167"
+                    }
+                }
+            ]
+        }
+    ]
+}

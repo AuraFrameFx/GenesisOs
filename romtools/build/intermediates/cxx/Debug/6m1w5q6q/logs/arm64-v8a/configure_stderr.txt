@@ -1,0 +1,7 @@
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    LIVE_ROM_EDITING
+    ROM_TOOLS_BUILD
+
+

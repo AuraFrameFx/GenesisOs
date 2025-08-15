@@ -1,0 +1,164 @@
+" }
+androidx-test-ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "extJunit" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espresso" }
+mockk = { group = "io.mockk", name = "mockk", version.ref = "mockk" }
+turbine = { group = "app.cash.turbine", name = "turbine", version.ref = "turbine" }
+androidx-core-testing = { group = "androidx.arch.core", name = "core-testing", version.ref = "archCoreTesting" }
+kotlinx-coroutines-test = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-test", version.ref = "coroutinesTest" }
+
+# ===== DEBUG TOOLS =====
+leakcanary-android = { group = "com.squareup.leakcanary", name = "leakcanary-android", version.ref = "leakcanary" }
+flipper-core = { group = "com.facebook.flipper", name = "flipper", version.ref = "flipper" }
+flipper-network = { group = "com.facebook.flipper", name = "flipper-network-plugin", version.ref = "flipper" }
+chucker-library = { group = "com.github.chuckerteam.chucker", name = "library", version.ref = "chucker" }
+chucker-library-no-op = { group = "com.github.chuckerteam.chucker", name = "library-no-op", version.ref = "chucker" }
+slf4j-android = { group = "org.slf4j", name = "slf4j-android", version.ref = "slf4j" }
+
+# ===== FIREBASE =====
+firebase-bom = { group = "com.google.firebase", name = "firebase-bom", version.ref = "firebaseBom" }
+firebase-analytics = { group = "com.google.firebase", name = "firebase-analytics-ktx", version = "22.5.0" }
+firebase-crashlytics = { group = "com.google.firebase", name = "firebase-crashlytics-ktx", version.ref = "firebaseCrashlyticsKtx" }
+
+# ===== GOOGLE PLAY SERVICES =====
+google-auth = { group = "com.google.android.gms", name = "play-services-auth", version.ref = "googleAuth" }
+google-identity = { group = "com.google.android.gms", name = "play-services-identity", version.ref = "googleIdentity" }
+google-auth-api-phone = { group = "com.google.android.gms", name = "play-services-auth-api-phone", version.ref = "googleAuthApiPhone" }
+
+# ===== XPOSED FRAMEWORK (BLEEDING EDGE) =====
+# Xposed Framework (from your JAR files)
+xposed = { module = "de.robv.android.xposed:api", version.ref = "xposed" }
+lsposed = { module = "org.lsposed.lsplant:lsplant", version.ref = "lsposed" }
+
+# YukiHookAPI (Maven dependencies - bleeding edge)
+yuki = { module = "com.highcapable.yukihookapi:api", version.ref = "yuki" }
+yuki-ksp-xposed = { module = "com.highcapable.yukihookapi:ksp-xposed", version.ref = "yukiKsp" }
+
+[bundles]
+# ===== 🚀 GENESIS CORE BUNDLES =====
+compose = [
+    "androidx-activity-compose", "androidx-compose-bom", "androidx-compose-ui",
+    "androidx-compose-ui-tooling-preview", "androidx-compose-material3"
+]
+
+# ===== COROUTINES BUNDLE =====
+coroutines = [
+    "kotlinx-coroutines-core", "kotlinx-coroutines-android"
+]
+
+# ===== NETWORKING BUNDLE =====
+network = [
+    "retrofit", "okhttp3-logging-interceptor", "kotlinx-serialization-json", 
+    "retrofit-converter-kotlinx-serialization"
+]
+
+# ===== FIREBASE BUNDLE =====
+firebase = [
+    "firebase-bom", "firebase-analytics", "firebase-crashlytics"
+]
+
+# ===== XPOSED FRAMEWORK BUNDLE =====
+xposed = [
+    "xposed", "lsposed", "yuki"
+]
+
+# ===== TESTING BUNDLE =====
+testing = [
+    "junit-jupiter", "mockk", "androidx-test-ext-junit", "espresso-core",
+    "androidx-core-testing", "kotlinx-coroutines-test"
+]
+
+# ===== AI/ML BUNDLE =====
+ai-ml = [
+    "tensorflow-lite", "tensorflow-lite-gpu", "tensorflow-lite-support",
+    "litert-core", "litert-gpu", "litert-support"
+]
+
+# ===== CAMERAX BUNDLE =====
+camerax = [
+    "camerax-core", "camerax-camera2", "camerax-lifecycle", 
+    "camerax-view", "camerax-extensions", "camerax-video"
+]
+
+# ===== ML KIT VISION BUNDLE =====
+mlkit-vision = [
+    "mlkit-text-recognition", "mlkit-face-detection", "mlkit-barcode-scanning",
+    "mlkit-image-labeling", "mlkit-object-detection", "mlkit-pose-detection"
+]
+
+# ===== ML KIT LANGUAGE BUNDLE =====
+mlkit-language = [
+    "mlkit-language-id", "mlkit-translate", "mlkit-smart-reply", "mlkit-entity-extraction"
+]
+
+# ===== ROOM DATABASE BUNDLE =====
+room = [
+    "room-runtime", "room-ktx"
+]
+
+# ===== DATASTORE BUNDLE =====
+datastore = [
+    "androidx-datastore-preferences", "androidx-datastore-proto", "androidx-datastore-core"
+]
+
+# ===== WORKMANAGER BUNDLE =====
+workmanager = [
+    "androidx-work-runtime", "androidx-work-multiprocess", "androidx-hilt-work"
+]
+
+# ===== PAGING BUNDLE =====
+paging = [
+    "androidx-paging-runtime", "androidx-paging-compose"
+]
+
+# ===== BIOMETRIC BUNDLE =====
+biometric = [
+    "androidx-biometric", "androidx-biometric-ktx"
+]
+
+# ===== LIFECYCLE BUNDLE =====
+lifecycle = [
+    "androidx-lifecycle-runtime-ktx", "androidx-lifecycle-viewmodel-ktx",
+    "androidx-lifecycle-viewmodel-compose", "androidx-lifecycle-livedata-ktx"
+]
+
+# ===== IMAGE PROCESSING BUNDLE =====
+image-processing = [
+    "glide", "coil3-core", "coil3-network", "coil3-compose",
+    "fresco", "fresco-animated-gif"
+]
+
+# ===== ANIMATION BUNDLE =====
+animations = [
+    "lottie-compose", "dotlottie-android", "animated-vector-drawable"
+]
+
+# ===== SECURITY BUNDLE =====
+security = [
+    "bouncycastle", "tink", "androidxSecurity", "conscrypt-android"
+]
+
+# ===== DEBUG TOOLS BUNDLE =====
+debug = [
+    "leakcanary-android", "flipper-core", "flipper-network",
+    "chucker-library", "slf4j-android"
+]
+
+# ===== AUDIO PROCESSING BUNDLE =====
+audio = [
+    "oboe-audio", "azure-speech-sdk", "vosk-speech"
+]
+
+# ===== UTILITIES BUNDLE =====
+utilities = [
+    "timber", "commons-io", "commons-compress", "xz"
+]
+
+# ===== GOOGLE SERVICES BUNDLE =====
+google-services = [
+    "google-auth", "google-identity", "google-auth-api-phone"
+]
+
+# ===== BROWSER & WEB BUNDLE =====
+browser = [
+    "androidx-browser", "androidx-webkit"
+]

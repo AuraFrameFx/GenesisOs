@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "dev.aurakai.auraframefx.dataveinoraclenative.datavein-oracle-native-release-4:/layout-v26/mtrl_calendar_month.xml",
+        "source": "dev.aurakai.auraframefx.dataveinoraclenative.datavein-oracle-native-material-1.12.0-15:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "dev.aurakai.auraframefx.dataveinoraclenative.datavein-oracle-native-release-4:/layout-v26/abc_screen_toolbar.xml",
+        "source": "dev.aurakai.auraframefx.dataveinoraclenative.datavein-oracle-native-appcompat-1.7.1-8:/layout-v26/abc_screen_toolbar.xml"
+    }
+]
