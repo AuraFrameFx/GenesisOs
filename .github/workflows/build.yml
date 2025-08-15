@@ -19,7 +19,7 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Validate Gradle Wrapper
-        uses: gradle/wrapper-validation-action@v1
+        uses: gradle/wrapper-validation-action@v3
 
       # Java version is now left on auto; Gradle toolchain manages it.
       - name: Cache Gradle
