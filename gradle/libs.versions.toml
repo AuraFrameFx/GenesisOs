@@ -2,7 +2,7 @@
 
 
 # ===== CORE BUILD TOOLS =====
-agp = "8.13.0-alpha04"
+agp = "9.0.0-alpha01"
 gradle = "9.0.0"
 kotlin = "2.2.20-Beta2"
 java = { target = "24 ", toolchain = "24" }
