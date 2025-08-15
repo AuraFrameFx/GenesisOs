@@ -4,9 +4,9 @@
 # ===== CORE BUILD TOOLS =====
 agp = "8.6.1"
 gradle = "8.11.1"
-kotlin = "2.1.0"
+kotlin = "2.2.10"
 java = { target = "21", toolchain = "21" }
-kotlinReflect = "2.1.0"
+kotlinReflect = "2.2.10"
 ksp = "2.1.0-1.0.29"
 hilt = "2.57"
 googleServices = "4.4.3"
