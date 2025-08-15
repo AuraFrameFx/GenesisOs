@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 env:
-  GRADLE_OPTS: -Xmx6g -Xms2g -XX:+UseG1GC
+  GRADLE_OPTS: -Xmx5g -Xms1g -XX:+UseG1GC
 
 jobs:
   validate:
