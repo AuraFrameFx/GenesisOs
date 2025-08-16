@@ -2,10 +2,10 @@
 
 
 # ===== CORE BUILD TOOLS =====
-agp = "8.13.0-alpha04"
-gradle = "9.0.0"
+agp = "8.13.0"
+gradle = "8.14.3"
 kotlin = "2.2.20"
-java = { target = "21", toolchain = "21" }
+java = { target = "24", toolchain = "24" }
 kotlinReflect = "2.2.20-Beta2-2.0.2"
 ksp = "2.2.20-2.0.2"
 hilt = "2.57"
