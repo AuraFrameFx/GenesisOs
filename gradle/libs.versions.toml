@@ -1,6 +1,6 @@
 [versions]
 # ===== CORE BUILD TOOLS =====
-agp = "8.12"
+agp = "8.11.1"
 gradle = "8.14.3"
 kotlin = "2.2.20"
 java = { target = "24", toolchain = "24" }
