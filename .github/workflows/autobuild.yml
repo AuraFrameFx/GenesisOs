@@ -27,7 +27,7 @@ jobs:
       - name: Set up JDK 24 (any provider)
         uses: actions/setup-java@v3
         with:
-          distribution: "any"
+          distribution: "oracle"
           java-version: "24"
 
       - name: Download Gradle
