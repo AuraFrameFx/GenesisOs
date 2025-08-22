@@ -1,0 +1,3 @@
+C:/Users/Wehtt/Music/GenesisOs/collab-canvas/.cxx/Debug/2c322k4r/x86_64/CMakeFiles/collab-canvas-native.dir
+C:/Users/Wehtt/Music/GenesisOs/collab-canvas/.cxx/Debug/2c322k4r/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Wehtt/Music/GenesisOs/collab-canvas/.cxx/Debug/2c322k4r/x86_64/CMakeFiles/rebuild_cache.dir
