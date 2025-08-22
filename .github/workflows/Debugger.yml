@@ -1,0 +1,35 @@
+name: Debug Illegal Characters
+
+on:
+  workflow_dispatch:
+    inputs:
+      directory:
+        description: 'Directory to scan for illegal characters'
+        required: false
+        default: '.'
+
+jobs:
+  scan-illegal-characters:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Scan files for illegal characters
+        run: |
+          echo "Scanning directory: ${{ github.event.inputs.directory }}"
+          find "${{ github.event.inputs.directory }}" -type f | while read file; do
+            # Example: Look for non-ASCII characters
+            if grep -P '[^\x00-\x7F]' "$file" > /dev/null; then
+              echo "::error file=$file::Non-ASCII (illegal) characters found in $file"
+              grep -nP '[^\x00-\x7F]' "$file" || true
+            fi
+            # Add additional illegal character patterns below if needed
+          done
+
+      - name: Fail if illegal characters found
+        run: |
+          if grep -r -P '[^\x00-\x7F]' "${{ github.event.inputs.directory }}"; then
+            echo "Illegal characters detected! Please review the logs above."
+            exit 1
+          fi
