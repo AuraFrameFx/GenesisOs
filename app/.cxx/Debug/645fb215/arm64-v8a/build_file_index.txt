@@ -1,1 +1,1 @@
-C:\Users\Wehtt\StudioProjects\AuraOS-\app\src\main\cpp\CMakeLists.txt
+C:\Users\Wehtt\Music\GenesisOs\app\src\main\cpp\CMakeLists.txt

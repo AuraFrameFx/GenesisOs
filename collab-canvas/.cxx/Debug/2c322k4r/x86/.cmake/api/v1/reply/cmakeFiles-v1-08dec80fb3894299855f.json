@@ -41,7 +41,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/.cxx/Debug/2c322k4r/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeSystem.cmake"
+			"path" : "C:/Users/Wehtt/Music/GenesisOs/collab-canvas/.cxx/Debug/2c322k4r/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeSystem.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -297,7 +297,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/.cxx/Debug/2c322k4r/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake"
+			"path" : "C:/Users/Wehtt/Music/GenesisOs/collab-canvas/.cxx/Debug/2c322k4r/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -448,14 +448,14 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/.cxx/Debug/2c322k4r/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake"
+			"path" : "C:/Users/Wehtt/Music/GenesisOs/collab-canvas/.cxx/Debug/2c322k4r/x86/CMakeFiles/3.22.1-g37088a8-dirty/CMakeCXXCompiler.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/.cxx/Debug/2c322k4r/x86",
-		"source" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/src/main/cpp"
+		"build" : "C:/Users/Wehtt/Music/GenesisOs/collab-canvas/.cxx/Debug/2c322k4r/x86",
+		"source" : "C:/Users/Wehtt/Music/GenesisOs/collab-canvas/src/main/cpp"
 	},
 	"version" : 
 	{

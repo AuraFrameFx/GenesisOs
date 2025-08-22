@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "x86"
+			"value" : "arm64-v8a"
 		},
 		{
 			"name" : "ANDROID_NDK",
@@ -75,7 +75,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "x86"
+			"value" : "arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_ANDROID_NDK",
@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/.cxx/Debug/2c322k4r/x86"
+			"value" : "c:/Users/Wehtt/Music/GenesisOs/app/.cxx/Debug/645fb215/arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -283,7 +283,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "-std=c++20 -fPIC"
+			"value" : "-std=c++20 -fPIC -O3"
 		},
 		{
 			"name" : "CMAKE_CXX_FLAGS_DEBUG",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/src/main/cpp"
+			"value" : "C:/Users/Wehtt/Music/GenesisOs/app/src/main/cpp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/collab-canvas-native"
+			"value" : "C:/Program Files (x86)/auraframefx"
 		},
 		{
 			"name" : "CMAKE_INSTALL_SO_NO_EXE",
@@ -627,7 +627,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:\\Users\\Wehtt\\StudioProjects\\AuraOS-\\collab-canvas\\build\\intermediates\\cxx\\Debug\\2c322k4r\\obj\\x86"
+			"value" : "C:\\Users\\Wehtt\\Music\\GenesisOs\\app\\build\\intermediates\\cxx\\Debug\\645fb215\\obj\\arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -843,67 +843,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "collab-canvas-native"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "1.0.0"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_MAJOR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "1"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_MINOR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "0"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_PATCH",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "0"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_TWEAK",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
+			"value" : "auraframefx"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -959,7 +899,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:\\Users\\Wehtt\\StudioProjects\\AuraOS-\\collab-canvas\\build\\intermediates\\cxx\\Debug\\2c322k4r\\obj\\x86"
+			"value" : "C:\\Users\\Wehtt\\Music\\GenesisOs\\app\\build\\intermediates\\cxx\\Debug\\645fb215\\obj\\arm64-v8a"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1219,10 +1159,34 @@
 				}
 			],
 			"type" : "BOOL",
-			"value" : "FALSE"
+			"value" : "ON"
 		},
 		{
-			"name" : "collab-canvas-native_BINARY_DIR",
+			"name" : "GENESIS_BUILD",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "No help, variable specified on the command line."
+				}
+			],
+			"type" : "UNINITIALIZED",
+			"value" : "ON"
+		},
+		{
+			"name" : "android-lib",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Users/Wehtt/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/33/libandroid.so"
+		},
+		{
+			"name" : "auraframefx_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1231,10 +1195,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/.cxx/Debug/2c322k4r/x86"
+			"value" : "C:/Users/Wehtt/Music/GenesisOs/app/.cxx/Debug/645fb215/arm64-v8a"
 		},
 		{
-			"name" : "collab-canvas-native_IS_TOP_LEVEL",
+			"name" : "auraframefx_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1246,7 +1210,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "collab-canvas-native_SOURCE_DIR",
+			"name" : "auraframefx_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1255,7 +1219,31 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/src/main/cpp"
+			"value" : "C:/Users/Wehtt/Music/GenesisOs/app/src/main/cpp"
+		},
+		{
+			"name" : "jnigraphics-lib",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Users/Wehtt/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/33/libjnigraphics.so"
+		},
+		{
+			"name" : "log-lib",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "C:/Users/Wehtt/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/aarch64-linux-android/33/liblog.so"
 		}
 	],
 	"kind" : "cache",

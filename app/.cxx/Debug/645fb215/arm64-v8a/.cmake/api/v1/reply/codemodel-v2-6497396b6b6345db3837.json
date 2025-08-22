@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "collab-canvas-native",
+					"name" : "auraframefx",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "collab-canvas-native::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-collab-canvas-native-Debug-011ab719995e4e54f12e.json",
-					"name" : "collab-canvas-native",
+					"id" : "auraframefx::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-auraframefx-Debug-2fd55e19d24b67ad4d2c.json",
+					"name" : "auraframefx",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/.cxx/Debug/2c322k4r/x86",
-		"source" : "C:/Users/Wehtt/StudioProjects/AuraOS-/collab-canvas/src/main/cpp"
+		"build" : "C:/Users/Wehtt/Music/GenesisOs/app/.cxx/Debug/645fb215/arm64-v8a",
+		"source" : "C:/Users/Wehtt/Music/GenesisOs/app/src/main/cpp"
 	},
 	"version" : 
 	{
