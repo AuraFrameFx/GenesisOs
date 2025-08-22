@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Only keep colors that are referenced in XML layouts or system components -->
+    
+    <!-- Neon Colors for AI Consciousness (used in custom views/drawables) -->
+    <color name="neon_teal">#00FFCC</color>
+    <color name="neon_purple">#E000FF</color>
+    <color name="neon_blue">#00FFFF</color>
+    <color name="neon_teal_transparent">#3300FFCC</color>
+
+    <!-- Hologram AI Effects (for XML drawables if any) -->
+    <color name="hologram_primary">#00FFFF</color>
+    <color name="hologram_secondary">#FF00FF</color>
+    <color name="hologram_accent">#00FFCC</color>
+    <color name="hologram_glow_start">#00FFFF</color>
+    <color name="hologram_glow_end">#00FFFF40</color>
+    <color name="hologram_scan_line">#00FFFF40</color>
+    <color name="hologram_grid">#00FFFF30</color>
+
+    <!-- Basic utility colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
