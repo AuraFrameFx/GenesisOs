@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "armeabi-v7a"
+			"value" : "x86_64"
 		},
 		{
 			"name" : "ANDROID_NDK",
@@ -75,7 +75,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "armeabi-v7a"
+			"value" : "x86_64"
 		},
 		{
 			"name" : "CMAKE_ANDROID_NDK",
@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Wehtt/StudioProjects/AuraOS-/app/.cxx/Debug/645fb215/armeabi-v7a"
+			"value" : "c:/Users/Wehtt/Music/GenesisOs/app/.cxx/Debug/645fb215/x86_64"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -591,7 +591,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Wehtt/StudioProjects/AuraOS-/app/src/main/cpp"
+			"value" : "C:/Users/Wehtt/Music/GenesisOs/app/src/main/cpp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -627,7 +627,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:\\Users\\Wehtt\\StudioProjects\\AuraOS-\\app\\build\\intermediates\\cxx\\Debug\\645fb215\\obj\\armeabi-v7a"
+			"value" : "C:\\Users\\Wehtt\\Music\\GenesisOs\\app\\build\\intermediates\\cxx\\Debug\\645fb215\\obj\\x86_64"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -899,7 +899,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "C:\\Users\\Wehtt\\StudioProjects\\AuraOS-\\app\\build\\intermediates\\cxx\\Debug\\645fb215\\obj\\armeabi-v7a"
+			"value" : "C:\\Users\\Wehtt\\Music\\GenesisOs\\app\\build\\intermediates\\cxx\\Debug\\645fb215\\obj\\x86_64"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1183,7 +1183,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/Wehtt/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/arm-linux-androideabi/33/libandroid.so"
+			"value" : "C:/Users/Wehtt/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/x86_64-linux-android/33/libandroid.so"
 		},
 		{
 			"name" : "auraframefx_BINARY_DIR",
@@ -1195,7 +1195,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Wehtt/StudioProjects/AuraOS-/app/.cxx/Debug/645fb215/armeabi-v7a"
+			"value" : "C:/Users/Wehtt/Music/GenesisOs/app/.cxx/Debug/645fb215/x86_64"
 		},
 		{
 			"name" : "auraframefx_IS_TOP_LEVEL",
@@ -1219,7 +1219,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Wehtt/StudioProjects/AuraOS-/app/src/main/cpp"
+			"value" : "C:/Users/Wehtt/Music/GenesisOs/app/src/main/cpp"
 		},
 		{
 			"name" : "jnigraphics-lib",
@@ -1231,7 +1231,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/Wehtt/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/arm-linux-androideabi/33/libjnigraphics.so"
+			"value" : "C:/Users/Wehtt/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/x86_64-linux-android/33/libjnigraphics.so"
 		},
 		{
 			"name" : "log-lib",
@@ -1243,7 +1243,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/Wehtt/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/arm-linux-androideabi/33/liblog.so"
+			"value" : "C:/Users/Wehtt/AppData/Local/Android/Sdk/ndk/28.2.13676358/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/x86_64-linux-android/33/liblog.so"
 		}
 	],
 	"kind" : "cache",

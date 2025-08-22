@@ -1,5 +1,5 @@
 # ninja log v5
-14	1097	7776021640909114	CMakeFiles/auraframefx.dir/ai/cascade/src/CascadeAIService.cpp.o	2b4c057b731df07a
-1	1109	7776021640959323	CMakeFiles/auraframefx.dir/auraframefx.cpp.o	89d4d45e54e485b3
-7	1167	7776021641609583	CMakeFiles/auraframefx.dir/language_id_l2c_jni.cpp.o	1f00dbbf195b3f48
-1169	1271	7776021642646351	C:/Users/Wehtt/StudioProjects/AuraOS-/app/build/intermediates/cxx/Debug/645fb215/obj/x86_64/libauraframefx.so	a59a0dab42f6464f
+1	933	7776040425841459	CMakeFiles/auraframefx.dir/auraframefx.cpp.o	6c4566107de7bfcf
+11	944	7776040425864190	CMakeFiles/auraframefx.dir/ai/cascade/src/CascadeAIService.cpp.o	d3f83bf729efc518
+6	982	7776040426308733	CMakeFiles/auraframefx.dir/language_id_l2c_jni.cpp.o	e9b9831b52adeba2
+984	1074	7776040427233139	C:/Users/Wehtt/Music/GenesisOs/app/build/intermediates/cxx/Debug/645fb215/obj/x86_64/libauraframefx.so	e8a0784a986470e0
