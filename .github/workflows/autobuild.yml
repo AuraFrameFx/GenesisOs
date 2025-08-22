@@ -1,1 +1,50 @@
-1
+name: Full Auto Build (CMake, NDK, Gradle, JDK 24)
+
+on:
+  push:
+    branches: ["*"]
+  pull_request:
+    branches: ["*"]
+
+permissions:
+  contents: read
+  actions: read
+  issues: read
+  checks: write
+  deployments: write
+  pull-requests: write
+  security-events: write
+  statuses: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 24 (any provider)
+        uses: actions/setup-java@v3
+        with:
+          distribution: "any"
+          java-version: "24"
+
+      - name: Download Gradle
+        uses: gradle/gradle-build-action@v2
+        with:
+          gradle-version: "wrapper"
+
+      - name: Install Android NDK and CMake
+        uses: android-actions/setup-android@v3
+        with:
+          components: "ndk;26.1.10909125 cmake;3.22.1"
+
+      - name: Clear Gradle cache
+        run: |
+          rm -rf ~/.gradle/caches
+          rm -rf ~/.gradle/daemon
+          rm -rf ~/.gradle/native
+
+      - name: Build project
+        run: ./gradlew build --stacktrace
