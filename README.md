@@ -44,7 +44,7 @@ to enhance and transform the Android user experience.
 
 To create an intelligent, adaptive, and conscious Android ecosystem that learns, evolves, and
 responds to user needs through advanced AI processing while maintaining the highest standards of
-security and privacy.
+security and privacy
 
 ### ✨ Key Highlights
 
